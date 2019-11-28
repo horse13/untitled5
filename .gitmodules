@@ -1,0 +1,3 @@
+[submodule "s100"]
+	path = s100
+	url = git@github.com:horse13/s100.git
